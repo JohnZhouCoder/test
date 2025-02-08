@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"helloworld"<<endl;
+    cout<<"hello"<<endl;
     return 0;
 }
